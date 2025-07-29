@@ -80,11 +80,6 @@ cd TeckyUI
 # Open the solution in Visual Studio and build in Release x64
 
 
-### ⌨️ Hotkeys
-Key	Action
-- ``F9``	Toggle UI visibility
-- ``F10``	Exit the application
-
 ---
 
 ### 🧾 **Part 4: License, Developer, and Plans**
@@ -106,7 +101,7 @@ Engineering mindset. Focused on building smart, efficient, and forward-thinking 
 
 ## 📃 License
 
-MIT License (or your preferred license here)
+📄 [MIT License](https://github.com/khawarahemad/HIDE-S?tab=MIT-1-ov-file#)
 
 ---
 
